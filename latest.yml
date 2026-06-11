@@ -1,8 +1,8 @@
-version: 1.1.3
+version: 1.1.4
 files:
-  - url: SsamtangFree-Setup-1.1.3.exe
-    sha512: zWdFpM7MIoHO1u79QJ+0G3ICMAoJU+yn6fHzR2HKVSczLExm0tETB+GduXV1HE+WRcL+2sOb/MzzjKEbAr9TwQ==
-    size: 96667904
-path: SsamtangFree-Setup-1.1.3.exe
-sha512: zWdFpM7MIoHO1u79QJ+0G3ICMAoJU+yn6fHzR2HKVSczLExm0tETB+GduXV1HE+WRcL+2sOb/MzzjKEbAr9TwQ==
-releaseDate: '2026-06-04T12:48:49.504Z'
+  - url: SsamtangFree-Setup-1.1.4.exe
+    sha512: fB9ZdzQLEJ/7X74+CmYEZspr3oYXB1TqO75lch2b3egPvHF2K63UTArIKkZu9YRau3W/9hcf7HBW8bXMg54IUA==
+    size: 96669176
+path: SsamtangFree-Setup-1.1.4.exe
+sha512: fB9ZdzQLEJ/7X74+CmYEZspr3oYXB1TqO75lch2b3egPvHF2K63UTArIKkZu9YRau3W/9hcf7HBW8bXMg54IUA==
+releaseDate: '2026-06-11T11:33:52.715Z'
