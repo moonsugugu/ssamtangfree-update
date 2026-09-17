@@ -1,8 +1,13 @@
-version: 1.5.5
+version: 2.0.0
 files:
-  - url: SsamtangFree-Setup-1.5.5.exe
-    sha512: fh6YgypRa7eTnJ8ZjXrXwb22kpKDg3Ei44kj3dgnfOk4pfAVlLat4F/VA7PiPlk7QoPNySLDOlTdKDst8oVshQ==
-    size: 96597109
-path: SsamtangFree-Setup-1.5.5.exe
-sha512: fh6YgypRa7eTnJ8ZjXrXwb22kpKDg3Ei44kj3dgnfOk4pfAVlLat4F/VA7PiPlk7QoPNySLDOlTdKDst8oVshQ==
-releaseDate: '2026-06-24T18:21:59.316Z'
+  - url: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.0/SsamtangFree-Setup-2.0.0.exe
+    sha512: nMM1SHChrgwXBEP9aVhz/zx2AosZo6dUkPJJwThu5GUyxgoG7u1o/nyV4btGtxgGpgxRuHCH/Z3/Tvy98WT9NA==
+    size: 203718638
+path: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.0/SsamtangFree-Setup-2.0.0.exe
+sha512: nMM1SHChrgwXBEP9aVhz/zx2AosZo6dUkPJJwThu5GUyxgoG7u1o/nyV4btGtxgGpgxRuHCH/Z3/Tvy98WT9NA==
+releaseDate: '2026-09-17T23:56:01.599Z'
+note: >-
+  이 파일은 랜딩페이지 버전 감지용(raw.githubusercontent.com, CORS 허용)입니다.
+  실제 설치파일은 100MB 제한 때문에 이 저장소가 아니라 GitHub Release(위 url)에 있습니다.
+  앱 내부 자동 업데이트는 이 파일을 보지 않고 GitHub Releases API를 직접 봅니다(app-update.yml, provider: github).
+  다음 버전을 낼 때도 이 파일의 version 필드만 갱신하면 랜딩페이지 다운로드 버튼이 자동으로 최신 버전을 가리킵니다.
