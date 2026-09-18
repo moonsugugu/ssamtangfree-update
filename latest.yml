@@ -1,11 +1,11 @@
-version: 2.0.6
+version: 2.0.7
 files:
-  - url: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.6/SsamtangFree-Setup-2.0.6.exe
-    sha512: Tn/63O9pUerraBCyyGVXvQ8YQbKU+YTKK32RH1S8uS9e1WlNs6Zncv5+Rb6wW5Ujtm6XgdX1fPYVUsy9HyxfZA==
-    size: 203720847
-path: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.6/SsamtangFree-Setup-2.0.6.exe
-sha512: Tn/63O9pUerraBCyyGVXvQ8YQbKU+YTKK32RH1S8uS9e1WlNs6Zncv5+Rb6wW5Ujtm6XgdX1fPYVUsy9HyxfZA==
-releaseDate: '2026-09-18T01:33:23.639Z'
+  - url: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.7/SsamtangFree-Setup-2.0.7.exe
+    sha512: IUdVSSisIradnuPChRP6wqgc+HlSRy/XZWme2x3w8g6lf85973rxuTwRUDdWO0yd0eoajCQXlbqsF/qltJUDPg==
+    size: 203720970
+path: https://github.com/moonsugugu/ssamtangfree-update/releases/download/v2.0.7/SsamtangFree-Setup-2.0.7.exe
+sha512: IUdVSSisIradnuPChRP6wqgc+HlSRy/XZWme2x3w8g6lf85973rxuTwRUDdWO0yd0eoajCQXlbqsF/qltJUDPg==
+releaseDate: '2026-09-18T01:40:38.930Z'
 note: >-
   이 파일은 랜딩페이지 버전 감지용(raw.githubusercontent.com, CORS 허용)입니다.
   실제 설치파일은 100MB 제한 때문에 이 저장소가 아니라 GitHub Release(위 url)에 있습니다.
